@@ -1,6 +1,6 @@
-# Secure Authentication & Cryptography API
+# Secure Authentication & Cryptography API (AQA System)
 
-A robust, security-first REST API built with Python and Flask. This project demonstrates defense-in-depth engineering principles, featuring stateless JWT authentication, cryptographic data protection, and active mitigations against brute-force and timing attacks.
+A robust, security-first REST API built with Python and Flask, serving as the backend for an Automated Quality Assurance (AQA) System. This project demonstrates defense-in-depth engineering principles, featuring stateless JWT authentication, cryptographic data protection, and active mitigations against brute-force and timing attacks.
 
 Developed as a 4th-Year Software Engineering Project.
 
