@@ -1,0 +1,326 @@
+2025-12-13 00:46:28 - INFO - User testuser registered.
+2025-12-13 00:51:30 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 00:51:38 - INFO - User testuser registered.
+2025-12-13 00:58:41 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 00:58:52 - INFO - User testuser registered.
+2025-12-13 00:59:36 - INFO - User testuser registered.
+2025-12-13 01:09:32 - INFO - User testuser registered.
+2025-12-13 01:16:36 - INFO - User testuser registered.
+2025-12-13 01:16:44 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:23:37 - INFO - User testuser registered.
+2025-12-13 01:23:42 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:23:51 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:23:53 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:23:54 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:23:55 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:23:56 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:23:57 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:24:01 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:24:02 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:29:48 - INFO - User testuser registered.
+2025-12-13 01:29:58 - INFO - [SECURITY] Failed login attempt for testuse.
+2025-12-13 01:30:13 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:32:21 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:32:31 - INFO - [SECURITY] Failed login attempt for None.
+2025-12-13 01:32:40 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:33:03 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:38:02 - INFO - User testuser registered.
+2025-12-13 01:38:06 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:39:16 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:39:29 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:42:10 - INFO - [SECURITY] Failed login attempt for None.
+2025-12-13 01:42:31 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:43:07 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:43:20 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:44:03 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:04 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:05 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:06 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:07 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:08 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:15 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:18 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:19 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:21 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:22 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:23 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:28 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:29 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:31 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:32 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:33 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:35 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:53 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:54 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:56 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:57 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:44:59 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:45:00 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:45:43 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:13 - INFO - User testuser registered.
+2025-12-13 01:47:18 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 01:47:43 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:44 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:46 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:47 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:48 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:49 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:56 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:47:57 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 01:48:19 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 02:01:37 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 02:02:50 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:03:52 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:03:54 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:03:56 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:03:57 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:03:59 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:04:01 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 02:07:10 - INFO - User 1234 registered.
+2025-12-13 02:09:04 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 02:11:42 - INFO - User testuser registered.
+2025-12-13 02:11:48 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 02:17:31 - INFO - User userB registered.
+2025-12-13 02:17:42 - INFO - [SECURITY] User userB logged in.
+2025-12-13 02:17:53 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 11:37:27 - INFO - User testuser registered.
+2025-12-13 11:37:34 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 12:16:39 - INFO - User testuser registered.
+2025-12-13 12:18:31 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 12:18:41 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:23:10 - INFO - User testuser registered.
+2025-12-13 20:23:30 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 20:23:38 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:24:02 - INFO - [SECURITY] User testuser logged in.
+2025-12-13 20:25:36 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:25:39 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:25:43 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:25:45 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:25:47 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:25:49 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:25:59 - INFO - [SECURITY] Failed login attempt for testuser.
+2025-12-13 20:26:23 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:32:43 - INFO - User testuser registered.
+2026-05-04 21:34:46 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-04 21:34:55 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-04 21:34:58 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-04 21:35:15 - INFO - User testuser registered.
+2026-05-04 21:40:14 - INFO - User testuser registered.
+2026-05-04 21:40:20 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:46:24 - INFO - User testuser registered.
+2026-05-04 21:46:29 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:50:10 - INFO - User testuser registered.
+2026-05-04 21:50:21 - INFO - User testu5ser registered.
+2026-05-04 21:50:37 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:50:43 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-04 21:51:22 - INFO - User wow registered.
+2026-05-04 21:51:36 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:51:45 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:51:54 - INFO - [SECURITY] User testuser logged in.
+2026-05-04 21:53:58 - INFO - [SECURITY] Failed login attempt for None.
+2026-05-04 21:54:23 - INFO - [SECURITY] User testuser logged in.
+2026-05-05 00:03:18 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:20 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:22 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:23 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:25 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:26 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:28 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:30 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:31 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:33 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:35 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:37 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:38 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:41 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:43 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:45 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:46 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:50 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:03:54 - INFO - [SECURITY] Failed login attempt for tesjtuser.
+2026-05-05 00:03:59 - INFO - [SECURITY] Failed login attempt for tesjjtuser.
+2026-05-05 00:04:04 - INFO - [SECURITY] Failed login attempt for tesjjjtuser.
+2026-05-05 00:04:05 - INFO - [SECURITY] Failed login attempt for None.
+2026-05-05 00:04:15 - INFO - [SECURITY] Failed login attempt for tesjjjjtuser.
+2026-05-05 00:04:20 - INFO - [SECURITY] Failed login attempt for tesjjjjjtuser.
+2026-05-05 00:04:24 - INFO - [SECURITY] Failed login attempt for tesjjjjjjtuser.
+2026-05-05 00:04:29 - INFO - [SECURITY] Failed login attempt for tesjjjjjjjtuser.
+2026-05-05 00:15:30 - INFO - User testuser123 registered.
+2026-05-05 00:15:44 - INFO - User testuser1234 registered.
+2026-05-05 00:16:02 - INFO - User testuser registered.
+2026-05-05 00:16:11 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:12 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:14 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:16 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:17 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:19 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:26 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:34 - INFO - [SECURITY] Failed login attempt for testuser.
+2026-05-05 00:16:52 - INFO - [SECURITY] User testuser logged in.
+2026-05-05 00:36:56 - INFO - User testuser registered.
+2026-05-05 00:37:08 - INFO - User 123 registered.
+2026-05-05 00:37:29 - INFO - [SECURITY] User testuser logged in.
+2026-05-05 00:38:18 - INFO - User admin registered.
+2026-05-05 00:38:26 - INFO - [SECURITY] User admin logged in.
+2026-05-05 01:01:53 - INFO - AES encryption performed.
+2026-05-05 01:02:30 - INFO - AES encryption performed.
+2026-05-05 01:09:59 - INFO - User blackbox_tester registered.
+2026-05-05 01:09:59 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-05 01:09:59 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-05 01:09:59 - INFO - AES encryption performed.
+2026-05-05 01:22:41 - INFO - User greybox_user registered.
+2026-05-05 01:22:42 - INFO - User target_user registered.
+2026-05-05 01:22:42 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:22:42 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:22:43 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:22:43 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:22:43 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:22:43 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:26:26 - INFO - [SECURITY] Failed login attempt for admin.
+2026-05-05 01:26:28 - INFO - [SECURITY] Failed login attempt for admin.
+2026-05-05 01:26:29 - INFO - [SECURITY] Failed login attempt for admin.
+2026-05-05 01:26:30 - INFO - [SECURITY] Failed login attempt for admin.
+2026-05-05 01:26:32 - INFO - [SECURITY] Failed login attempt for admin.
+2026-05-05 01:26:33 - INFO - [SECURITY] Failed login attempt for admin.
+2026-05-05 01:26:51 - INFO - AES encryption performed.
+2026-05-05 01:31:50 - INFO - User blackbox_tester registered.
+2026-05-05 01:31:50 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-05 01:31:50 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-05 01:31:50 - INFO - AES encryption performed.
+2026-05-05 01:31:51 - INFO - User greybox_user registered.
+2026-05-05 01:31:51 - INFO - User target_user registered.
+2026-05-05 01:31:51 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:31:51 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:31:52 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:31:52 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:31:52 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:31:52 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:36:23 - INFO - User blackbox_tester registered.
+2026-05-05 01:36:24 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-05 01:36:24 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-05 01:36:24 - INFO - AES encryption performed.
+2026-05-05 01:36:24 - INFO - User greybox_user registered.
+2026-05-05 01:36:25 - INFO - User target_user registered.
+2026-05-05 01:36:25 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:36:25 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:36:25 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:36:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:36:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:36:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:42:36 - INFO - User ana registered.
+2026-05-05 01:45:01 - INFO - User ana registered.
+2026-05-05 01:47:49 - INFO - User ana registered.
+2026-05-05 01:51:32 - INFO - User ana registered.
+2026-05-05 01:54:42 - INFO - [SECURITY] User ana logged in.
+2026-05-05 01:56:24 - INFO - [SECURITY] User ana logged in.
+2026-05-05 01:58:24 - INFO - User blackbox_tester registered.
+2026-05-05 01:58:24 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-05 01:58:24 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-05 01:58:24 - INFO - AES encryption performed.
+2026-05-05 01:58:25 - INFO - User greybox_user registered.
+2026-05-05 01:58:25 - INFO - User target_user registered.
+2026-05-05 01:58:25 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:58:25 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:58:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:58:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:58:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 01:58:26 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:37:51 - INFO - User blackbox_tester registered.
+2026-05-05 11:37:51 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-05 11:37:51 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-05 11:37:51 - INFO - AES encryption performed.
+2026-05-05 11:37:52 - INFO - User greybox_user registered.
+2026-05-05 11:37:52 - INFO - User target_user registered.
+2026-05-05 11:37:52 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:37:53 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:37:53 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:37:53 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:37:54 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:37:54 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 11:48:43 - INFO - User ana registered.
+2026-05-05 11:49:13 - INFO - [SECURITY] User ana logged in.
+2026-05-05 11:49:51 - INFO - AES encryption performed.
+2026-05-05 11:50:48 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:50:51 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:50:53 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:50:55 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:50:57 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:50:58 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:51:09 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:51:14 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:51:26 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 11:51:31 - INFO - [SECURITY] User ana logged in.
+2026-05-05 11:52:38 - INFO - AES encryption performed.
+2026-05-05 11:52:54 - INFO - AES encryption performed.
+2026-05-05 11:53:03 - INFO - AES encryption performed.
+2026-05-05 11:53:05 - INFO - AES encryption performed.
+2026-05-05 13:25:48 - INFO - User greybox_user registered.
+2026-05-05 13:25:49 - INFO - User target_user registered.
+2026-05-05 13:25:49 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:25:49 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:25:50 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:25:50 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:25:50 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:25:50 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:50:50 - INFO - User greybox_user registered.
+2026-05-05 13:50:50 - INFO - User target_user registered.
+2026-05-05 13:50:50 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:50:50 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:50:51 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:50:51 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:50:51 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:50:51 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-05 13:54:43 - INFO - User ana registered.
+2026-05-05 13:55:00 - INFO - [SECURITY] User ana logged in.
+2026-05-05 13:55:06 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 13:55:19 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 13:55:21 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 13:55:22 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 13:55:24 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 13:55:24 - INFO - [SECURITY] Failed login attempt for ana.
+2026-05-05 13:55:45 - INFO - AES encryption performed.
+2026-05-05 13:56:54 - INFO - [SECURITY] User ana logged in.
+2026-05-05 14:28:45 - INFO - User ana registered.
+2026-05-05 14:29:11 - INFO - [SECURITY] User ana logged in.
+2026-05-05 14:30:37 - INFO - AES encryption performed.
+2026-05-05 17:08:10 - INFO - User ana registered.
+2026-05-05 17:08:21 - INFO - [SECURITY] User ana logged in.
+2026-05-05 17:08:37 - INFO - AES encryption performed.
+2026-05-08 14:58:41 - INFO - User ana registered.
+2026-05-08 14:59:12 - INFO - [SECURITY] User ana logged in.
+2026-05-08 15:00:09 - INFO - AES encryption performed.
+2026-05-08 15:10:36 - INFO - User blackbox_tester registered.
+2026-05-08 15:10:37 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-08 15:10:37 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-08 15:10:37 - INFO - AES encryption performed.
+2026-05-08 15:10:37 - INFO - User greybox_user registered.
+2026-05-08 15:10:37 - INFO - User target_user registered.
+2026-05-08 15:10:38 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:10:38 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:10:38 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:10:39 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:10:39 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:10:39 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:15:50 - INFO - User blackbox_tester registered.
+2026-05-08 15:15:51 - INFO - [SECURITY] User blackbox_tester logged in.
+2026-05-08 15:15:51 - INFO - [SECURITY] Failed login attempt for blackbox_tester.
+2026-05-08 15:15:51 - INFO - AES encryption performed.
+2026-05-08 15:16:47 - INFO - User greybox_user registered.
+2026-05-08 15:16:47 - INFO - User target_user registered.
+2026-05-08 15:16:47 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:16:48 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:16:48 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:16:48 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:16:49 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-05-08 15:16:49 - INFO - [SECURITY] Failed login attempt for target_user.
+2026-06-01 21:12:13 - INFO - User ana registered.
+2026-06-02 23:02:19 - INFO - [SECURITY] Failed login attempt for sarah.
+2026-06-02 23:02:46 - INFO - User ana registered.
+2026-06-02 23:02:58 - INFO - [SECURITY] User ana logged in.
+2026-06-03 00:34:29 - INFO - User ana registered.
+2026-06-03 00:34:38 - INFO - [SECURITY] User ana logged in.
+2026-06-03 00:37:38 - INFO - [SECURITY] Failed login attempt for ana.
+2026-06-03 00:37:48 - INFO - User ana registered.
+2026-06-03 00:37:51 - INFO - [SECURITY] User ana logged in.
+2026-06-03 00:44:37 - INFO - [SECURITY] Failed login attempt for ana .
+2026-06-03 00:45:00 - INFO - [SECURITY] User ana logged in.
